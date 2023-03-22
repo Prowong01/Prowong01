@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">A passionate developer from Malaysia</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript,Python and Machine Learning**
-
+- 📆 15/05/2001
+- 👯 I’m currently study at University Technology Malaysia
+- 🌱 I’m currently learning application development
+- ⚡ Frisbee lover
+- 💬 Ask me anything that you are interested about me
 - 📫 How to reach me **jeddiewong@yahoo.com**
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F126663808259169690%2F&psig=AOvVaw2bnvF_tpVBcZ84vOlgpTBb&ust=1679545064539000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjO4InX7v0CFQAAAAAdAAAAABAE">
+<img align="right" width="30%" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
