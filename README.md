@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **jeddiewong@yahoo.com**
 
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F126663808259169690%2F&psig=AOvVaw2bnvF_tpVBcZ84vOlgpTBb&ust=1679545064539000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIjO4InX7v0CFQAAAAAdAAAAABAE">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
