@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Eddie</h1>
+<h1 align="center">Hi 👋, I'm Eddie Wong</h1>
 <h3 align="center">A passionate developer from Malaysia</h3>
 
 - 📆 15/05/2001
-- 👯 I’m currently study at University Technology Malaysia
+- 👯 I’m currently study at Universiti Technologi Malaysia
 - 🌱 I’m currently learning application development
 - ⚡ Frisbee lover
 - 💬 Ask me anything that you are interested about me
